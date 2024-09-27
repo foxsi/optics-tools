@@ -6,6 +6,7 @@ setuptools.setup(
     description="Software used for the optics system.",
     url="https://github.com/foxsi/optics-tools",
     install_requires=[
+            "setuptools",
             "numpy", 
             "scipy",
             "matplotlib",
