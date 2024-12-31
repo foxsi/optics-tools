@@ -1,0 +1,3 @@
+[submodule "external/foxsi_optics_calib"]
+	path = external/foxsi_optics_calib
+	url = https://github.com/foxsi/foxsi_optics_calib.git

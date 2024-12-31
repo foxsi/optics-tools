@@ -7,3 +7,7 @@ __pycache__/
 
 # Python
 optics_tools_py.egg-info/
+env/
+venv/
+.env/
+.venv/
